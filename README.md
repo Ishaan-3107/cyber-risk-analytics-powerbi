@@ -58,7 +58,8 @@ This project addresses these analytical needs using Power BI.
 - Total exception count  
 - Status distribution  
 - Aging analysis  
-- Monthly trend analysis  
+- Monthly trend analysis
+<img width="476" height="271" alt="exceptions_review" src="https://github.com/user-attachments/assets/39569c28-630d-40b6-8173-ed07351d0ef1" />
 
 ---
 
@@ -69,6 +70,7 @@ This project addresses these analytical needs using Power BI.
 - Category breakdown  
 - Closure tracking  
 - Review performance metrics  
+<img width="476" height="271" alt="security_exceptions_review" src="https://github.com/user-attachments/assets/6e63d585-b9d7-465f-aec3-ba6244bb8bfd" />
 
 ---
 
@@ -79,6 +81,10 @@ This project addresses these analytical needs using Power BI.
 - Department-level insights  
 - Repeat exception tracking  
 - Time-based patterns  
+<img width="476" height="271" alt="image" src="https://github.com/user-attachments/assets/6a8fc802-3cee-4dca-9c0c-ff6ec68c12e6" /><br>
+Page 1<br><br>
+<img width="476" height="271" alt="image" src="https://github.com/user-attachments/assets/98b36a44-da94-4b5a-a9be-8e860a2a2d70" /><br>
+Page 2<br>
 
 ---
 
@@ -88,6 +94,8 @@ This project addresses these analytical needs using Power BI.
 - Time-bound lifecycle reporting  
 - Trend comparison within selected period  
 - Closure and review patterns  
+<img width="476" height="271" alt="image" src="https://github.com/user-attachments/assets/9b77a78d-5e63-4c37-a171-00290f502e2a" />
+
 
 ---
 
@@ -98,6 +106,7 @@ This project addresses these analytical needs using Power BI.
 - Open vs remediated comparison  
 - Aging buckets  
 - Monthly discovery & remediation trends  
+<img width="476" height="271" alt="image" src="https://github.com/user-attachments/assets/df711abf-2cf5-4cd9-81ab-759b961c8d84" />
 
 ---
 
