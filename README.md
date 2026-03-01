@@ -80,7 +80,7 @@ This project addresses these analytical needs using Power BI.
 - User-wise distribution  
 - Department-level insights  
 - Repeat exception tracking  
-- Time-based patterns  
+- Time-based patterns  <br><br>
 <img width="476" height="271" alt="image" src="https://github.com/user-attachments/assets/6a8fc802-3cee-4dca-9c0c-ff6ec68c12e6" /><br>
 Page 1<br><br>
 <img width="476" height="271" alt="image" src="https://github.com/user-attachments/assets/98b36a44-da94-4b5a-a9be-8e860a2a2d70" /><br>
