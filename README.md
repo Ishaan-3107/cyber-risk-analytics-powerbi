@@ -108,6 +108,19 @@ Page 2<br>
 - Monthly discovery & remediation trends  
 <img width="476" height="271" alt="image" src="https://github.com/user-attachments/assets/df711abf-2cf5-4cd9-81ab-759b961c8d84" />
 
+### 6️⃣ Vulnerability Analysis Report
+
+**Focus Areas:**
+- Incident lifecycle tracking & SLA compliance
+- Mean time to resolution (MTTR) metrics
+- Priority-based incident distribution
+- Timeline and escalation analysis
+- Service level performance monitoring 
+<img width="856" height="481" alt="it_governance_report_1" src="https://github.com/user-attachments/assets/1f76872b-b4dc-4f68-9ce2-0a9ad3fbadc7" />
+Page 1<br><br>
+<img width="856" height="479" alt="it_governance_report_2" src="https://github.com/user-attachments/assets/5fcad69b-4823-4766-bc7d-2cc134ae91a3" />
+Page 2<br>
+
 ---
 
 ## 🏗 Data Modeling Approach
