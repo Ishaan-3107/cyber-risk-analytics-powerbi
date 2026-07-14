@@ -116,9 +116,9 @@ Page 2<br>
 - Priority-based incident distribution
 - Timeline and escalation analysis
 - Service level performance monitoring 
-<img width="856" height="481" alt="it_governance_report_1" src="https://github.com/user-attachments/assets/1f76872b-b4dc-4f68-9ce2-0a9ad3fbadc7" />
+<img width="476" height="271" alt="it_governance_report_1" src="https://github.com/user-attachments/assets/1f76872b-b4dc-4f68-9ce2-0a9ad3fbadc7" /><br>
 Page 1<br><br>
-<img width="856" height="479" alt="it_governance_report_2" src="https://github.com/user-attachments/assets/5fcad69b-4823-4766-bc7d-2cc134ae91a3" />
+<img width="476" height="271" alt="it_governance_report_2" src="https://github.com/user-attachments/assets/5fcad69b-4823-4766-bc7d-2cc134ae91a3" /><br>
 Page 2<br>
 
 ---
